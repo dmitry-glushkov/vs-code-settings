@@ -1,0 +1,38 @@
+{
+    "editor.fontFamily": "JetBrains Mono Light",
+    "editor.fontSize": 13,
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+        "comments": "#746e6d"
+    },
+
+    "explorer.compactFolders": false,
+
+    "go.buildOnSave": "off",
+    "go.lintOnSave": "file",
+    "go.vetOnSave": "package",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": false,
+    "go.formatTool": "default",
+    "go.autocompleteUnimportedPackages": true,
+
+    "python.pythonPath": "C:\\Users\\globy\\Anaconda3\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "json.schemas": [
+    
+    ],
+    "redhat.telemetry.enabled": false,
+    "settingsSync.ignoredExtensions": [
+    
+    ],
+}
